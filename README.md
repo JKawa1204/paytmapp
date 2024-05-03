@@ -1,5 +1,5 @@
 
-## Built a basic version of PayTM
+## Built a basic version of PayTM ( Money transfering app )
 
 - A basic model of PayTM is created where user can signin and signup.
 - Once user have signed in, they can see various other users already created.
